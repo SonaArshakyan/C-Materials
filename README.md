@@ -1,2 +1,2 @@
 # self-study-Materials
-This repo. is designed to include useful materials for c# , .net, azure, js, english
+This repo. is designed to include useful materials for c#, .net, azure, js, sql, english ...
