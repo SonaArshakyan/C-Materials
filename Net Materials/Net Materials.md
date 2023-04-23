@@ -21,7 +21,9 @@
 
 [[Article]](https://blog.tomasz-rewak.com/clean-view-models/) Clean View Models
 
-[[Video]](https://www.youtube.com/watch?v=il9gl8MH17s&t=843s&ab_channel=RawCoding) C# Async/Await/Task Explained (Deep Dive)
+[[Video]](https://www.youtube.com/watch?v=il9gl8MH17s&t=843s&ab_channel=RawCoding) C# Async/Await/Task Explained (Deep Dive)c
+
+[[Video]](https://www.youtube.com/watch?v=RqJESGHEMDY&list=LL&index=1&ab_channel=FullStackAmigo) Understanding Async State Machine - Part 1
 
 [[Article]](https://devblogs.microsoft.com/dotnet/configureawait-faq/) ConfigureAwait / SynchronizationContext / TaskScheduler 
 
