@@ -1,6 +1,7 @@
 # .net Learning Materials
 
 ## .NET
+#### Threads / C# async/await  / Parallel Programming
 [[Article]](http://www.albahari.com/threading/) Threading in C# Part 1 Getting Started Joseph Albahari
 
 [[Article]](http://www.albahari.com/threading/part2.aspx) Threading in C# Part 2 Basic Synchronization Joseph Albahari
@@ -26,4 +27,10 @@
 [[Video]](https://www.youtube.com/watch?v=RqJESGHEMDY&list=LL&index=1&ab_channel=FullStackAmigo) Understanding Async State Machine - Part 1
 
 [[Article]](https://devblogs.microsoft.com/dotnet/configureawait-faq/) ConfigureAwait / SynchronizationContext / TaskScheduler 
+
+### Message Queues
+#### Intro
+[[Video]](https://www.youtube.com/watch?v=J6CBdSCB_fY&ab_channel=sudoCODE) Message Queues -Part 1
+[[Video]](https://www.youtube.com/watch?v=EgJ7xts82Mg&ab_channel=sudoCODE) Message Queues -Part 2
+[[Video]](https://www.youtube.com/watch?v=-vd_Ay0pvFY&ab_channel=sudoCODE) Message Queues -Part 3
 
