@@ -33,4 +33,8 @@
 [[Video]](https://www.youtube.com/watch?v=J6CBdSCB_fY&ab_channel=sudoCODE) Message Queues -Part 1
 [[Video]](https://www.youtube.com/watch?v=EgJ7xts82Mg&ab_channel=sudoCODE) Message Queues -Part 2
 [[Video]](https://www.youtube.com/watch?v=-vd_Ay0pvFY&ab_channel=sudoCODE) Message Queues -Part 3
+#### Intro
+[[Video]](https://www.youtube.com/watch?v=Hl61x0s3yeQ&list=PLxoOrmZMsAWxXBF8h_TPqYJNsh3x4GyO4&index=2&ab_channel=SelfTuts) Apache Kafka for beginners
+
+
 
