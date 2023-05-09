@@ -33,8 +33,39 @@
 [[Video]](https://www.youtube.com/watch?v=J6CBdSCB_fY&ab_channel=sudoCODE) Message Queues -Part 1
 [[Video]](https://www.youtube.com/watch?v=EgJ7xts82Mg&ab_channel=sudoCODE) Message Queues -Part 2
 [[Video]](https://www.youtube.com/watch?v=-vd_Ay0pvFY&ab_channel=sudoCODE) Message Queues -Part 3
-#### Intro
+#### Intro Kafka
 [[Video]](https://www.youtube.com/watch?v=Hl61x0s3yeQ&list=PLxoOrmZMsAWxXBF8h_TPqYJNsh3x4GyO4&index=2&ab_channel=SelfTuts) Apache Kafka for beginners
+
+### Analyzing and profiling tools
+
+#### Intro VS Tools
+[[Article]](https://learn.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2022) First look at profiling tools (C#)
+[[Video]](https://www.youtube.com/watch?v=X1-uHpEqNGM&ab_channel=MicrosoftVisualStudio) Performance Profiling | CPU Usage Tool
+
+#### Memory profiling principles
+[[Article]](https://michaelscodingspot.com/memory-profilers-principles/) Memory profiling principles: Part1
+[[Article]](https://michaelscodingspot.com/memory-profilers-for-memory-leaks/) Memory profiling principles: Part2
+[[Article]](https://michaelscodingspot.com/fix-memory-pressure-dotnet/) Memory profiling principles: Part3
+
+#### Symbol files
+[[Article]](https://learn.microsoft.com/en-us/visualstudio/debugger/specify-symbol-dot-pdb-and-source-files-in-the-visual-studio-debugger?view=vs-2022) Specify symbol (.pdb) and source files in the Visual Studio debugger 
+[[Article]](https://devblogs.microsoft.com/devops/understanding-symbol-files-and-visual-studios-symbol-settings/) Understanding symbol files and Visual Studio’s symbol settings
+
+#### Debug memory leak in .NET
+[[Task]](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/debug-memory-leak) Debug a memory leak in .NET Core
+[[Article]](https://learn.microsoft.com/en-us/visualstudio/debugger/decompilation?view=vs-2022) Debug compiled applications
+
+#### Work with unmanaged resources and Dispose pattern
+[[Article]](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose) Implement a Dispose method
+[[Video]](https://www.youtube.com/watch?v=CV5UlcfFls4&list=LL&index=3&t=298s&ab_channel=CodingTutorials) The Dispose Pattern
+
+
+
+
+
+
+
+
 
 
 
