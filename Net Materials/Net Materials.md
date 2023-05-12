@@ -35,6 +35,7 @@
 [[Video]](https://www.youtube.com/watch?v=-vd_Ay0pvFY&ab_channel=sudoCODE) Message Queues -Part 3
 #### Intro Kafka
 [[Video]](https://www.youtube.com/watch?v=Hl61x0s3yeQ&list=PLxoOrmZMsAWxXBF8h_TPqYJNsh3x4GyO4&index=2&ab_channel=SelfTuts) Apache Kafka for beginners
+[[Video]](https://www.youtube.com/watch?v=B5j3uNBH8X4&list=RDCMUCmZz-Gj3caLLzEWBtbYUXaA&start_radio=1&t=1s&ab_channel=Confluent) Apache Kafka
 
 ### Analyzing and profiling tools
 
