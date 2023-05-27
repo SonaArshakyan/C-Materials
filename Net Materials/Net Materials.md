@@ -54,12 +54,28 @@
 
 #### Debug memory leak in .NET
 [[Task]](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/debug-memory-leak) Debug a memory leak in .NET Core
+
 [[Article]](https://learn.microsoft.com/en-us/visualstudio/debugger/decompilation?view=vs-2022) Debug compiled applications
 
 #### Work with unmanaged resources and Dispose pattern
 [[Article]](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose) Implement a Dispose method
+
 [[Video]](https://www.youtube.com/watch?v=CV5UlcfFls4&list=LL&index=3&t=298s&ab_channel=CodingTutorials) The Dispose Pattern
 
+### REST architecture
+[[Article]](https://github.com/drminnaar/ranker) GitHub - drminnaar/ranker: A REST API guide with an example project written in C# using .NET 5
+
+[[Article]](https://learn.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0) Create web APIs with ASP.NET Core | Microsoft Docs
+
+[[Article]](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio) Tutorial: Create a web API with ASP.NET Core | Microsoft Docs
+
+[[Article]](https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0) ASP.NET Core web API documentation with Swagger / OpenAPI | Microsoft Docs
+
+[[Article]](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/#h-maintain-good-security-practices) Best practices for REST API design - Stack Overflow Blog
+
+[[Article]](https://www.baeldung.com/cs/rest-architecture) Briefly about Richardson Maturity Model (paragraph #4)
+
+[[Article]](https://martinfowler.com/articles/richardsonMaturityModel.html) Richardson Maturity Model
 
 
 
