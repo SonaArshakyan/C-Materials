@@ -65,3 +65,73 @@
 ➼ What are some potential challenges and drawbacks of using message queues in .NET applications?
 
 
+## Analyzing and profiling tools
+
+➼ What profiling tools does Visual Studio provides?
+
+➼ What typical performance issues could you mention? How to diagnose and prevent them?
+
+➼ What .pdb files are and how are they used in debugging?
+
+➼ What “Unmanaged resources” in .NET are?
+
+➼ How do you understand Dispose pattern? How is it related to destructors (FinaliseFinalize)?
+
+➼ How can you debug compiled applications? 
+
+➼ Explain memory leaks in C#. What are some common causes, and how can you prevent them?
+
+➼ What are weak references in C#? How can they be useful in memory management?
+
+➼ How can you force garbage collection in C#? Is it recommended, and why or why not?
+
+➼ How does the .NET runtime manage memory for large objects (greater than 85,000 bytes)?
+
+➼ What are some best practices for improving string manipulation performance in C#?
+
+
+##  LINQ, IQueryable
+
+➼ What is the difference between IQueryable and IEnumerable interfaces? Provide some examples. 
+
+➼ Describe IQueryProvider interface. What is it used for? 
+
+➼ Analyze the task you worked on related to IQueryable topic. What is the role of Expressions for IQueryProvider? 
+
+➼ Explain the difference between deferred (lazy) and immediate execution in LINQ. Provide examples of operators for each.
+
+➼ What is Parallel LINQ (PLINQ), and when should you use it?
+
+
+##   Expressions
+
+➼ What is an expression tree?
+
+➼ How can you create expression tree in C#?
+
+➼ Are expression trees mutable?
+
+➼ How will this expression be translated by compiler?
+
+
+##  REST architecture
+
+➼ Explain the difference between terms: REST and RESTful.
+
+➼ What are the six constraints?
+
+➼ Is HTTP the only protocol supported by REST?
+
+➼ HTTP Request Methods (the difference) and HTTP Response codes. What is idempotency?
+
+➼ What are the advantages of statelessness in RESTful services?
+
+➼ What resource naming best practices are?
+
+➼ What is Richardson Maturity Model?
+
+➼ How can RESTful APIs be secured?
+
+➼ How a RESTful API can be designed to support multiple data formats, such as JSON and XML.
+
+
