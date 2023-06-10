@@ -27,3 +27,41 @@
 ➼ Name potential pitfalls in Task Parallelism?
 
 ➼ What is the difference between attached and detached Child Tasks?
+
+
+## Async Programming
+
+➼ What is the Async programming in C#?
+
+➼ What are the key operators that are used for asynchronous operation? 
+
+➼ If you mark a method with the async keyword, does this mean that the method is executed asynchronously?
+
+➼ What Asynchronous programming patterns do you know?
+
+➼ Can a method contain multiple “await” key operators?
+
+➼ What types can be returned?
+
+
+##  Message queues 
+
+➼ What is a message queue? What do message queues store and transfer? 
+
+➼ Describe the publisher/subscriber pattern. The difference between Pub/Sub and Observable patterns.
+
+➼ What is Message Bus? How does it work? 
+
+➼ What is the difference between message queue and web services? 
+
+➼ Describe the difference between RabbitMQ and Kafka. Provide some use cases for each of them: in which scenarios you’ll use RabbitMQ, Kafka?
+
+➼ How do messaging systems ensure reliable delivery and fault tolerance?
+
+➼ What are some typical use cases for message queues in .NET applications?
+
+➼ How do message queues handle message prioritization and ordering?
+
+➼ What are some potential challenges and drawbacks of using message queues in .NET applications?
+
+
