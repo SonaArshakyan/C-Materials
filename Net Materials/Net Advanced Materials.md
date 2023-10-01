@@ -9,11 +9,14 @@
 
 [[Article]](https://www.ibm.com/topics/soa) Service-Oriented Architecture 
 
+[[Article]](https://www.datadoghq.com/knowledge-center/serverless-architecture/#:~:text=Any%20user%20activity%20that%20triggers,a%20chain%20of%20serverless%20functions.) Serverless Architecture Overview
+
 [[Article]](https://martinfowler.com/articles/serverless.html) Serverless Architecture
 
 [[Article]](https://www.cloudflare.com/learning/serverless/glossary/serverless-microservice/) What is a serverless microservice
 
 [[Article]](https://geekflare.com/create-application-architecture-diagram/) How to Create Application Architecture Diagram Online? 
+
 
 
 
