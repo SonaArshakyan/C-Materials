@@ -21,6 +21,9 @@
 
 [[Article]](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html) Layered Architecture / N-Layer Architecture (Chapter 1 - Software Architecture Patterns by Mark Richards, 15m, reading)
 
+[[Article]](https://codeopinion.com/clean-architecture-example-breakdown/) Clean Architecture Example & Breakdown (10m, reading)
+
+
 
 
 
