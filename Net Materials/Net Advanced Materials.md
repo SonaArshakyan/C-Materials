@@ -17,6 +17,9 @@
 
 [[Article]](https://geekflare.com/create-application-architecture-diagram/) How to Create Application Architecture Diagram Online? 
 
+####  □ Layered Architectures
+
+[[Article]](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html) Layered Architecture / N-Layer Architecture (Chapter 1 - Software Architecture Patterns by Mark Richards, 15m, reading)
 
 
 
