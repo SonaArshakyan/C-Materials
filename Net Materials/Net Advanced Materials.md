@@ -25,6 +25,15 @@
 
 [[Article]](https://codeopinion.com/clean-architecture-example-breakdown/) Clean Architecture Example & Breakdown (10m, reading)
 
+[[Article]](https://sourcemaking.com/antipatterns/software-architecture-antipatterns) Software Architecture AntiPatterns / Spaghetti Code
+
+[[Video](https://www.youtube.com/watch?v=lkmvnjypENw&ab_channel=dotnet) Clean Architecture with ASP.NET Core 6
+
+[[Video](https://www.youtube.com/watch?v=dK4Yb6-LxAk&ab_channel=GOTOConferences) Clean Architecture with ASP.NET Core 3.0 • Jason Taylor • GOTO 2019
+
+
+
+
 
 
 
