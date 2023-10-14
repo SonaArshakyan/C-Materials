@@ -27,9 +27,14 @@
 
 [[Article]](https://sourcemaking.com/antipatterns/software-architecture-antipatterns) Software Architecture AntiPatterns / Spaghetti Code
 
-[[Video](https://www.youtube.com/watch?v=lkmvnjypENw&ab_channel=dotnet) Clean Architecture with ASP.NET Core 6
+[[Video]](https://www.youtube.com/watch?v=lkmvnjypENw&ab_channel=dotnet) Clean Architecture with ASP.NET Core 6
 
-[[Video](https://www.youtube.com/watch?v=dK4Yb6-LxAk&ab_channel=GOTOConferences) Clean Architecture with ASP.NET Core 3.0 • Jason Taylor • GOTO 2019
+[[Video]](https://www.youtube.com/watch?v=dK4Yb6-LxAk&ab_channel=GOTOConferences) Clean Architecture with ASP.NET Core 3.0 • Jason Taylor • GOTO 2019
+
+Recommended
+[[Article]](https://www.linkedin.com/pulse/n-tier-n-layer-architecture-swapnil-baxi/) N-Tier / N-Layer Architecture
+
+[[Article]](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together
 
 
 
