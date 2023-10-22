@@ -39,6 +39,10 @@ Recommended
 
 [[Article]](https://blog.pragmatists.com/domain-driven-design-vs-anemic-model-how-do-they-differ-ffdee9371a86) Domain-Driven Design vs. anemic model. How do they differ?
 
+[[Article]](https://aslanovmustafa.medium.com/architectural-antipatterns-488c39342595) Architectural AntiPatterns
+
+
+
 
 
 
