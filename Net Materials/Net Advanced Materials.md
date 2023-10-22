@@ -37,6 +37,8 @@ Recommended
 
 [[Article]](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together
 
+[[Article]](https://blog.pragmatists.com/domain-driven-design-vs-anemic-model-how-do-they-differ-ffdee9371a86) Domain-Driven Design vs. anemic model. How do they differ?
+
 
 
 
