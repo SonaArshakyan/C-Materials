@@ -77,6 +77,12 @@
 
 [[Article]](https://martinfowler.com/articles/richardsonMaturityModel.html) Richardson Maturity Model
 
+Advanced
+
+[[Article]](https://restfulapi.net/rest-architectural-constraints/) Rest API. Constraints and Core concepts
+
+
+
 ###  □ Hosting and Deployment
 
 #### IIS
