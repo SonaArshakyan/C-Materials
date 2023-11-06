@@ -15,7 +15,7 @@
 ➼ Name several use cases where Serverless architecture would be beneficial?
 
 
-## Architectural Styles and Patterns
+##  Layered architecture
 
 ➼ Name examples of the layered architecture. Do they differ or just extend each other?
 
@@ -25,3 +25,24 @@
 
 ➼ What do Testability, Extensibility and Scalability NFRs mean. How would you ensure you reached them? Does Clean Architecture cover these NFRs?
 
+##  RESTful Web API
+
+➼ Explain the difference between terms: REST and RESTful. What are the six constraints?
+
+➼ HTTP Request Methods (the difference) and HTTP Response codes. What is idempotency?  Is HTTP the only protocol supported by the REST?
+
+➼ What are the advantages of statelessness in RESTful services?
+
+➼ How can caching be organized in RESTful services?
+
+➼ How can versioning be organized in RESTful services? 
+
+➼ What are the best practices of resource naming? 
+
+➼ What are OpenAPI and Swagger? What implementations/libraries for .NET exist? When would you prefer to generate API docs automatically and when manually?
+
+➼ What is OData? When will you choose to follow it and when not?
+
+➼ What is Richardson Maturity Model? Is it always a good idea to reach the 3rd level of maturity?
+
+➼ What does pros and cons REST have in comparison with other web API types?
