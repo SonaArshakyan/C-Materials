@@ -42,6 +42,19 @@ Recommended
 [[Article]](https://aslanovmustafa.medium.com/architectural-antipatterns-488c39342595) Architectural AntiPatterns
 
 
+####  □ Message Based Architecture. Message Broker
+
+[[Article]](https://www.geeksforgeeks.org/what-is-message-oriented-middleware-mom/) Message-oriented Architectures
+
+[[Article]](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) Asynchronous message-based communication
+
+[[Article]](https://developer.lightbend.com/docs/akka-guide/concepts/message-driven-event-driven.html) Message Driven vs Event Driven
+
+[[Article]](https://www.ibm.com/topics/message-brokers) Message-oriented Architectures
+
+
+
+
 
 
 
