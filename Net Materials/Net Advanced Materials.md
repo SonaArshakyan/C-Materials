@@ -56,6 +56,21 @@ Recommended
 
 [[Article]](https://en.wikipedia.org/wiki/Message_broker#List_of_message_broker_software) List of message broker software
 
+[[Article]](https://www.rabbitmq.com/getstarted.html) RabbitMQ Tutorials
+
+[[Article]](https://kafka.apache.org/quickstart) APACHE KAFKA QUICKSTART
+
+[[Article]](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) Azure Service Bus
+
+[[Article]](https://www.techtarget.com/searchapparchitecture/tip/How-to-handle-typical-event-driven-architecture-failures) How to handle typical event-driven architecture failures
+
+[[Article]](https://multithreaded.stitchfix.com/blog/2017/08/21/handling-messaging-failures/) Understanding Failure Modes in Message and Event-based Systems
+
+
+
+
+
+
 
 
 
