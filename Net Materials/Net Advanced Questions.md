@@ -46,3 +46,21 @@
 ➼ What is Richardson Maturity Model? Is it always a good idea to reach the 3rd level of maturity?
 
 ➼ What does pros and cons REST have in comparison with other web API types?
+
+
+##  Message Based Architecture. Message Broker
+
+➼ What is Message Based Architecture? What is the difference between Message Based Architecture and Event Based Architecture?
+
+➼ What is Message Broker? How do message brokers work?
+
+➼ When should you use message brokers?
+
+➼ Name and describe any distribution pattern.
+
+➼ What are the advantages and disadvantages of using message broker?
+
+➼ What is the difference between Queue and Topic?
+
+➼ What are the typical failures in MBA? How can you address them? What is Saga pattern?
+
