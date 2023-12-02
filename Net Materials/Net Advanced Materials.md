@@ -67,6 +67,14 @@ Recommended
 [[Article]](https://multithreaded.stitchfix.com/blog/2017/08/21/handling-messaging-failures/) Understanding Failure Modes in Message and Event-based Systems
 
 
+##  □ Security. Authentication & Authorization
+####  Authentication and Authorization basics. Authorization options.
+
+[[Article]](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization) Authentication vs. Authorization
+
+[[Video]](https://www.youtube.com/watch?v=X6a9bjNutEw&ab_channel=NDCConferences) Modern Authentication - Rob Moore
+
+
 
 
 
