@@ -78,6 +78,16 @@ Recommended
 
 [[Video]](https://www.youtube.com/watch?v=996OiexHze0&ab_channel=OktaDev)  OAuth 2.0 and OpenID Connect - 1h (i love it!)
 
+[[Video]](https://www.youtube.com/watch?v=ikS1gdZQXrc&ab_channel=RawCoding)  OAuth 2.0 & 2.1 -40mins
+
+[[Video]](https://www.youtube.com/watch?v=WQM_3Mm1Ewo&ab_channel=RawCoding)  (working with certificates, 28m) 
+
+[[Video]](https://www.youtube.com/watch?v=rTzlF-U9Y6Y&ab_channel=VMwareEnd-UserComputing)  OAuth 2.0 & OpenID Connect (OIDC): Technical Overview -20 mins
+
+[[Video]](https://www.youtube.com/watch?v=SvppXbpv-5k&ab_channel=VMwareEnd-UserComputing)  SAML 2.0: Technical Overview -20 mins
+
+
+
 
 
 
