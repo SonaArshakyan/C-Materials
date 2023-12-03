@@ -74,6 +74,12 @@ Recommended
 
 [[Video]](https://www.youtube.com/watch?v=X6a9bjNutEw&ab_channel=NDCConferences) Modern Authentication - Rob Moore
 
+####  AuthN and AuthZ protocols 
+
+[[Video]](https://www.youtube.com/watch?v=996OiexHze0&ab_channel=OktaDev)  OAuth 2.0 and OpenID Connect - 1h (i love it!)
+
+
+
 
 
 
