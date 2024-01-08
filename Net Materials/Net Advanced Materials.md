@@ -123,6 +123,36 @@ Recommended
  [[Article]](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-8.0) Introduction to authorization in ASP.NET Core
 
 
+####  AuthN and AuthZ protocols  -(additional) [Optional]
+
+. Session vs Token 
+
+ [[Article]](https://www.baeldung.com/cs/tokens-vs-sessions) API Authentication – Tokens vs Sessions
+
+ [[Article]](https://dev.to/thecodearcher/what-really-is-the-difference-between-session-and-token-based-authentication-2o39) What really is the difference between session and token based authentication
+
+. OpenID Connect and OAuth flows  
+
+ [[Article]](https://darutk.medium.com/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85) Diagrams And Movies Of All The OAuth 2.0 Flows
+
+ [[Article]](https://frontegg.com/blog/oauth-flows) Demystifying OAuth Flows
+
+IAM Implementations / Identity Server. 
+
+ [[Article]](https://docs.duendesoftware.com/identityserver/v6/overview) 
+
+ [[Article]](https://identityserver4.readthedocs.io/en/latest/) 
+
+. Security Attacks Prevention IN ASP.NET  
+
+ [[Article]](https://learn.microsoft.com/en-us/aspnet/core/security/anti-request-forgery?view=aspnetcore-8.0)  Prevent Cross-Site Request Forgery (XSRF/CSRF) attacks in ASP.NET Core
+
+ [[Article]](https://learn.microsoft.com/en-us/aspnet/core/security/preventing-open-redirects?view=aspnetcore-8.0)  Prevent open redirect attacks in ASP.NET Core
+
+ [[Article]](https://learn.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-8.0) Prevent Cross-Site Scripting (XSS) in ASP.NET Core
+
+
+
 
 
 
