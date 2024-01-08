@@ -88,6 +88,55 @@ Recommended
 
 [[Video]](https://www.youtube.com/watch?v=SvppXbpv-5k&ab_channel=VMwareEnd-UserComputing)  SAML 2.0: Technical Overview -20 mins
 
+. Security tokens 
+
+       a. Token Types 
+
+ [[Article]](https://learn.microsoft.com/en-us/entra/identity-platform/security-tokens) Tokens and claims overview
+
+ [[Article]](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) ID Token and Access Token: What's the Difference?
+
+ [[Article]](https://learn.microsoft.com/en-us/entra/identity-platform/security-tokens) Tokens and claims overview
+
+      b. Details 
+
+ [[Article]](https://learn.microsoft.com/en-us/entra/identity-platform/access-tokens) Access tokens in the Microsoft identity platform
+
+ [[Article]](https://learn.microsoft.com/en-us/entra/identity-platform/id-tokens) ID tokens in the Microsoft identity platform
+
+ [[Article]](https://learn.microsoft.com/en-us/entra/identity-platform/refresh-tokens) Refresh tokens in the Microsoft identity platform
+
+. OpenID Connect and OAuth flows  
+
+ [[Article]](https://darutk.medium.com/diagrams-of-all-the-openid-connect-flows-6968e3990660) Diagrams of All The OpenID Connect Flows
+
+ [[Article]](https://dzone.com/articles/the-right-flow-for-the-job-which-oauth-20-flow-sho) The Right Flow for the Job: Which OAuth 2.0 Flow Should I Use?
+
+ [[Article]](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/) What Is Single Sign-On Authentication (SSO) And How Does It Work?
+
+ [[Article]](https://www.rsa.com/multi-factor-authentication/what-is-mfa/) What is Multi-Factor Authentication (MFA) and How does it Work?
+
+. Authentication and Authorization in ASP.NET Core 
+
+ [[Article]](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-8.0) Overview of ASP.NET Core authentication
+
+ [[Article]](https://learn.microsoft.com/en-us/aspnet/core/security/authorization/introduction?view=aspnetcore-8.0) Introduction to authorization in ASP.NET Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
 
 
