@@ -64,3 +64,23 @@
 
 ➼ What are the typical failures in MBA? How can you address them? What is Saga pattern?
 
+
+##  Security. Authentication & Authorization
+
+➼ What is the difference between authentication and authorization? 
+
+➼ What authorization approaches can you list? What is role-based access control? 
+
+➼ What exactly is Identity Management (Identity and Access Management)? 
+
+➼ What authentication/authorization protocols do you know? What is the difference between OAuth & OpenID? 
+
+➼ What is Authentication/Authorization Token. What is JWT token? What other approaches except authentication/authorization, can we use with security token? 
+
+➼ What is Single Sign-On (SSO)? Name the steps to implement SSO. What are the benefits of SSO? 
+
+➼ What is the difference between Two-Factor Authentication and Multi-Factor Authentication? 
+
+➼ Which of the OAuth flows can be used for user (customer) and which for client (server) authentication? 
+
+
