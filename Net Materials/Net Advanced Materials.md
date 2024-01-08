@@ -90,7 +90,7 @@ Recommended
 
 . Security tokens 
 
-       a. Token Types 
+     a. Token Types 
 
  [[Article]](https://learn.microsoft.com/en-us/entra/identity-platform/security-tokens) Tokens and claims overview
 
