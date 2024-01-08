@@ -151,6 +151,13 @@ IAM Implementations / Identity Server. 
 
  [[Article]](https://learn.microsoft.com/en-us/aspnet/core/security/cross-site-scripting?view=aspnetcore-8.0) Prevent Cross-Site Scripting (XSS) in ASP.NET Core
 
+. ASP.Net Core (learning series) + IdentityServer4 
+
+ [[Video]](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4yaz-uIi5T4ZW3QQGHJQXi) 
+
+ [[Video]](https://www.youtube.com/watch?v=Fhfvbl_KbWo&list=PLOeFnOV9YBa7dnrjpOG6lMpcyd7Wn7E8V&ab_channel=RawCoding) 
+
+
 
 
 
