@@ -89,7 +89,6 @@ Recommended
 [[Video]](https://www.youtube.com/watch?v=SvppXbpv-5k&ab_channel=VMwareEnd-UserComputing)  SAML 2.0: Technical Overview -20 mins
 
 . Security tokens 
-
      a. Token Types 
 
  [[Article]](https://learn.microsoft.com/en-us/entra/identity-platform/security-tokens) Tokens and claims overview
