@@ -158,6 +158,21 @@ IAM Implementations / Identity Server. 
  [[Video]](https://www.youtube.com/watch?v=Fhfvbl_KbWo&list=PLOeFnOV9YBa7dnrjpOG6lMpcyd7Wn7E8V&ab_channel=RawCoding) 
 
 
+##  □ Advanced Logging and Tracing
+
+ [[Article]](https://greeeg.com/en/issues/differences-between-logging-tracing-profiling) - What is the difference between Logging, Tracing & Profiling?
+
+ [[Article]](https://systemadminspro.com/logging-in-a-net-microservice-environment/) - LOGGING IN A .NET MICROSERVICE ENVIRONMENT
+
+ [[Article]](https://solutionsreview.com/network-monitoring/best-application-performance-monitoring-tools/) - The 19 Best Application Performance Monitoring Tools
+
+ [[Article]](https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) - Application Insights overview
+
+ [[Article]](https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-dependencies#automatically-tracked-dependencies%C2%A0) - Dependency tracking in Application Insights
+
+[[Article]](https://learn.microsoft.com/en-us/dotnet/api/microsoft.applicationinsights.extensibility.operationcorrelationtelemetryinitializer?view=azure-dotnet) - Distributed Tracing. Telemetry correlation in Application Insights 
+
+
 
 
 
