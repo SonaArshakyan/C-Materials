@@ -84,3 +84,72 @@
 ➼ Which of the OAuth flows can be used for user (customer) and which for client (server) authentication? 
 
 
+##  Advanced Logging and Tracing
+
+➼ Why Serviceability and Observability NFRs are important? Who would you cover them with? 
+
+➼ What is the difference between logging and tracing? What are the peculiarities of logging and tracing in a distributed environment? 
+
+➼ What is the Correlation Context? How can we pass it through all hierarchy of the services? 
+
+➼ Which APM to choose? Think of some criteria. 
+
+➼ What is Open Telemetry? 
+
+##  Containerization and Orchestration 
+
+➼ What is orchestration?
+
+➼ What is containerization and the pros and cons of using it?
+
+➼ What is the difference between containerization and virtualization?
+
+➼ Explain the usage flow of Docker & Kubernetes.
+
+➼ What are the best practices for containerization?
+
+➼ How is Docker CI different from classic CI pipeline?
+
+
+##  CI/CD
+
+➼ What is CI/CD? What is the difference between delivery and deployment?
+ 
+➼ Agree or disagree on at least 5 CI/CD practices for your current project.
+
+➼ What branching strategies exist? Does your current project follow any branching strategies, is it the best one, in your opinion?
+
+➼ What deployment strategies exist? Does your current project follow any deployment strategies, is it the best one, in your opinion?
+
+➼ What CI/CD implementation tools do you know? In which case would you use Jenkins?
+
+➼ What is IaC? What problem does it solve? Name several IaC tools.
+
+➼ How is IaC integrated into the CI/CD pipeline?
+
+
+## SDLC. Estimations
+
+➼ What Is SDLC? How many steps does it have? What are the tasks performed in Coding phase?
+
+➼ Why agile models are so popular? Will you consider using waterfall nowadays?
+
+➼ When will you choose to follow SCRUM and when KANBAN?
+
+➼ What are the options of scaling agile models? Does your project already follow a specific one?
+
+➼ Why do we need to measure KPI of development models? How can we use them?
+
+➼ Please name estimation techniques you use on your current project.
+
+➼ Which estimation techniques can be used for high level estimations?
+
+➼ Which estimation techniques can be used for detailed estimations?
+
+➼ What are the risks related to the wrong estimations? Which is worse: underestimate or overestimate?
+
+➼ Is it possible to convert story points into man-hours?
+
+
+
+
