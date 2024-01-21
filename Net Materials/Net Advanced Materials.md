@@ -172,17 +172,33 @@ IAM Implementations / Identity Server. 
 
 [[Article]](https://learn.microsoft.com/en-us/dotnet/api/microsoft.applicationinsights.extensibility.operationcorrelationtelemetryinitializer?view=azure-dotnet) - Distributed Tracing. Telemetry correlation in Application Insights 
 
+##  □ Containerization and Orchestration
 
+ [[Video]](https://www.youtube.com/watch?v=PfRWP60qxPM&ab_channel=CalebCurry) - Introduction to Kubernetes and Docker (10 min, video)
 
+ [[Article]](https://www.vmware.com/topics/glossary/content/cloud-orchestration.html) - What is Cloud Orchestration? (10 min, reading)
 
+ [[Article]](https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms) - Containers vs. virtual machines
 
+ [[Article]](https://www.techtarget.com/searchapparchitecture/tip/The-pros-cons-and-challenges-of-containerized-microservices) - Advantages and Disadvantages of Containerization (10 min, reading)
 
+[[Article]](https://docs.docker.com/compose/gettingstarted/) - Try Docker Compose
 
+[[Article]](https://bterkaly.medium.com/running-asp-net-applications-in-kubernetes-a-detailed-step-by-step-approach-96c98f273d1a) - Running ASP.NET Applications (Core) in Kubernetes (15 min, reading)
 
+[[Article]](https://www.simform.com/blog/containerization-best-practices/) - 16 Containerization Best Practices (20 min, reading)
 
+Recommended
 
+[[Video]](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana) - Docker Tutorial for Beginners [FULL COURSE in 3 Hours]
 
+[[Article]](https://docs.docker.com/samples/dotnet/) - Dockerize an ASP.NET Core application
 
+[[Article]](https://www.airplane.dev/blog/docker-alternatives) - 7 Docker Alternatives (15 min, reading)
+
+[[Article]](https://www.smarthomebeginner.com/podman-vs-docker/) - Podman vs Docker
+
+[[Article]](https://developers.redhat.com/articles/2022/03/21/hello-podman-using-net) - Hello Podman using .NET
 
 
 
