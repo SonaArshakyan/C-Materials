@@ -201,13 +201,40 @@ Recommended
 [[Article]](https://developers.redhat.com/articles/2022/03/21/hello-podman-using-net) - Hello Podman using .NET
 
 
+####  □ CI/CD
+
+1. Continuous integration vs. continuous delivery vs. continuous deployment
+
+[[Article]](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment) - Continuous integration vs. delivery vs. deployment
+
+[[Article]](https://katalon.com/resources-center/blog/ci-cd-introduction) - What is CI/CD? Continuous Integration & Continuous Delivery
+
+2. CI/CD Principles and Practices
+
+[[Article]](https://dzone.com/articles/what-is-continuous-integration-11-key-practices-an) - What is Continuous Integration? 11 Key Practices and Principles
+
+3. Branching Strategies
+
+[[Article]]([https://dzone.com/articles/what-is-continuous-integration-11-key-practices-an](https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/)https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/) - Branching Strategies
+
+4. Deployment Strategies
+
+[[Article]](https://thenewstack.io/deployment-strategies/) -Six Strategies for Application Deployment
+
+[[Article]](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3) - Intro to deployment strategies: blue-green, canary, and more
+
+5. Infrastructure as Code (IaC) overview
+
+[[Article]](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code) - What is infrastructure as code
+
+6.  Why we use Terraform and not Chef, Puppet, Ansible, Pulumi, or CloudFormation
+
+[[Article]](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c) - Why we use Terraform and not Chef, Puppet, Ansible, Pulumi, or CloudFormation
+
+[[Article]](https://developer.hashicorp.com/terraform/tutorials/azure-get-started) - Get Started – Azure / Terraform
 
 
-
-      
-
-
-
+   
 
 
 
