@@ -10,9 +10,9 @@ class Program
     static async Task Main()
     {
         // Your Azure AD app registration details
-        string clientId = "8dfdef89-0e09-4e83-8da5-64d38d52bf77";
-        string clientSecret = "jP08Q~lwMXUlElB38z9Vt-Gc2nHh6ai1d-o0oanC";
-        string tenantId = "75ffd7d9-19e9-405f-8671-405a9da8e991";
+        string clientId = "";
+        string clientSecret = "";
+        string tenantId = "";
 
         // User to check
         string usernameToCheck = "sona.arshakyan@veriangroup.com";
